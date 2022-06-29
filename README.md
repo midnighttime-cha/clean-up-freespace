@@ -1,4 +1,4 @@
-# Clean up Freespace
+# Clean up to freespace on Ubuntu and Redhat 6,7,8
 
 ## Ubuntu
 ```sh
